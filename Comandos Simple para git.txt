@@ -1,0 +1,10 @@
+git status -- Checar status de repo
+git pull -- actualizar localemte el repo
+git clone -- clonar repo desde master
+git checkout "branch" -- cambiar de branch
+git checkout -b "New Branch" -- Crear un nuevo branch
+git add file.txt -- agregar archivo a branch
+git commit -m "Descripcion de cambio" --- actualizar branch localmente
+git push -- Subir cambio a repo en servidor
+Urquijo
+Remoto
